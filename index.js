@@ -61,3 +61,14 @@ function point3(player)
      }
     
 }
+
+
+
+function game()
+{
+    home_El.innerHTML = 0 ;
+    guest_El.innerHTML = 0 ;
+    h_Count = 0;
+    g_Count = 0;
+    
+}
